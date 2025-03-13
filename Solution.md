@@ -1,43 +1,43 @@
-#Commandes PowerShell qui correspondent aux commandes Linux (shell bash)
+# Commandes PowerShell qui correspondent aux commandes Linux (shell bash)
+=========================================================================
 
-
-##Commande **cp**
+## Commande **cp**
 _PS C:\Users\Sheldon> Get-Help cp_
 NOM
     **Copy-Item**
 
-##Commande **rm**
+## Commande **rm**
 _PS C:\Users\Sheldon> Get-Help remove_   
 Name 
     **Remove**
 
-##Commande **cd**
+## Commande **cd**
 _PS C:\Users\Sheldon> Get-Help cd_
 NOM
     **Set-Location**
 
-##Commande **mkdir**
+## Commande **mkdir**
 _PS C:\Users\Sheldon> Get-Help mkdir_
 NOM
     **New-Item**
 
-##Commande **man**
+## Commande **man**
 _PS C:\Users\Sheldon> Get-help man_
 NOM
     **Get-Help**
 
-##Commande **history**
+## Commande **history**
 _PS C:\Users\Sheldon> Get-Help history_
 NOM
     **Get-History**
 
-##Commande **alias**
+## Commande **alias**
 _PS C:\Users\Sheldon> Get-Help alias_
 NOM                   
       **New-Alias**                         
       **Set-Alias**                         
 
-##Commande **cat**
+## Commande **cat**
 _PS C:\Users\Sheldon> Get-Help cat_
 NOM
     **Get-Content**
